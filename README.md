@@ -2,4 +2,4 @@
 Simple yet effective RPi-bruteforcer
 
 # Discord
-Crille#6623
+Crilleaz
